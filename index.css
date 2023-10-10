@@ -7,15 +7,14 @@ body {
 }
 
 h1 {
-    margin:5rem,10rem;
-    height: 10%;
-    font-size: 3rem;
+    
+    font-size: 5rem;
     
 }
 
 h2 {
-    margin: 5rem,10rem;
-    font-size: 50px;
+
+    font-size: 10rem;
     color:aliceblue;
 }
 
@@ -26,7 +25,7 @@ button {
     color: white;
     font-weight: bold;
     width: 200px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     border-radius: 5px;
 }
 
@@ -39,13 +38,10 @@ button {
 }
 
 .container {
-    margin-top: 10rem;
-    width: 100%;
+    position:relative;
+    height: 100%;
+    margin: 0 auto;
     color:blueviolet;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
+   
     
 }
