@@ -9,9 +9,9 @@ body {
 
 .container {
 display: flex;
-flex-direction:colum;
+flex-direction:column;
 content-align:center;
-align-items: stretch;  
+
 }
 
 .btn{
